@@ -37,3 +37,6 @@ next-env.d.ts
 
 # workspace-config
 budget-tracker.code-workspace
+
+.env
+env.download
